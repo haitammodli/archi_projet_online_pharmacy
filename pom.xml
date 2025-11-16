@@ -13,6 +13,7 @@
     <modules>
         <module>discovery_service</module>
         <module>gateway_service</module>
+        <module>produit-service</module>
     </modules>
 
     <properties>
