@@ -11,9 +11,11 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>discovery_service</module>
-        <module>gateway_service</module>
+        <module>discovery-service</module>
+        <module>gateway-service</module>
         <module>produit-service</module>
+        <module>order-service</module>
+        <module>delivery-service</module>
     </modules>
 
     <properties>
