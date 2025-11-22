@@ -1,0 +1,13 @@
+POST http://localhost:8082/orders
+Content-Type: application/json
+
+{
+  "customerName": "haitam modli",
+  "customerEmail": "haitam@gmail.com",
+  "items": [
+    {
+      "productId": 1,
+      "quantity": 6
+    }
+  ]
+}

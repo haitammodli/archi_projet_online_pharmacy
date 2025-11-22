@@ -1,0 +1,11 @@
+POST http://localhost:8081/products
+Content-Type: application/json
+
+{
+  "name": "Nurofen",
+  "description": "Anti-inflammatory pain reliever (Ibuprofen)",
+  "price": 42,
+  "quantity": 250,
+  "category": "Anti-inflammatory",
+  "manufacturer": "Reckitt Benckiser"
+}
